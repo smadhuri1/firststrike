@@ -1,0 +1,1 @@
+interface ddd    description sss    ip vrf forwarding aaa    no shutdown    ip address 1.1.1.1/2!
